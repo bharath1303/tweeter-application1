@@ -1,0 +1,16 @@
+# Followings steps need to follow to run this program
+1. set the classpath for provided dependencies jar files in lib folder.
+2. create tweeter application using this link https://docs.inboundnow.com/guide/create-twitter-application/ and get below configuration details.
+		OAuthConsumerKey
+		OAuthConsumerSecret
+		OAuthAccessToken
+		OAuthAccessTokenSecret
+3. set this configuration value in tweets.properties file corresponding to keys.
+4. Compile the code using javac Tweeter.java and befor compile make sure classpath set for dependencies jar files provide in lib folder.
+5. Run the java program using java Tweeter command
+6. After message provide topics name comma seprated format only
+
+
+# I am adding generated text files for your reference.
+# let me know, if you face any problem to run this program.
+		
